@@ -3,7 +3,7 @@
 Created on Wed May 26 19:48:55 2021
 
 @author:JAFF-CYBERTHEIF
-gitbub:
+gitbub: https://github.com/JAFF-CYBERTHEIF/face-detector/
 """
 
 
