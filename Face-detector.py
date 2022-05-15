@@ -5,6 +5,8 @@ Created on Wed May 26 19:48:55 2021
 @author:JAFF-CYBERTHEIF
 gitbub: https://github.com/JAFF-CYBERTHEIF/face-detector/
 """
+#pip install opencv-python
+
 import cv2 as cv
 import os
 
